@@ -1,5 +1,6 @@
 姓名：金鑫 学号：17061512
-##译文1：建立一个MySQL数据库，包含以下两张表：
+
+## 译文1：建立一个MySQL数据库，包含以下两张表：
 
 ```sql
 mysql> show databases;
@@ -17,7 +18,7 @@ mysql> show databases;
 7 rows in set (0.01 sec)
 ```
 
-##译文2：如何加入两张表 
+## 译文2：如何加入两张表 
 
 ```sql
 mysql> create table biao1(id int);
