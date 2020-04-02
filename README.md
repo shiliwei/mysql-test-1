@@ -26,7 +26,10 @@ mysql> create table biaoge(dd varchar(20));
 Query OK, 0 rows affected (0.04 sec)
 ```
 ## 题目2：如何join两张表
+
+```sql
 join join
+```
 
 ## 题目3： xxxx
 xxxxxx
