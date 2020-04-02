@@ -11,9 +11,14 @@ mysql> show databases;
 | sys | 
 +--------------------+ 
 4 rows in set (0.17 sec)
+mysql>  create table biaoge(id int);
+Query OK, 0 rows affected (0.02 sec)
+
+mysql> create table biaoge2(name varchar(20));
+Query OK, 0 rows affected (0.02 sec)
 ```
 
-![](https://github.com/silverdays/mysql-test-1/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190603204721.png) 
+![](https://github.com/shiliwei/mysql-test-1/blob/master/QQ%E6%88%AA%E5%9B%BE20200402230238.png) 
 
 ## 题目2：如何join两张表
 
