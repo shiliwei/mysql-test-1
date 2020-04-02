@@ -1,3 +1,6 @@
+姓名：杨汶 
+学号：17061733
+
 ## 题目1：建立一个mysql database, 包含以下两张表：
 ```sql
 mysql> show databases;
