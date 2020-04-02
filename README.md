@@ -20,7 +20,8 @@ mysql> create table biao(id int);
 Query OK, 0 rows affected (0.04 sec)
 
 mysql> create table biaoge(dd varchar(20));
-Query OK, 0 rows affected (0.04 sec)```
+Query OK, 0 rows affected (0.04 sec)
+```
 
 ## 题目2：如何join两张表
 join join
