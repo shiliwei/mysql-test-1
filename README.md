@@ -194,9 +194,9 @@ INSERT INTO t_dept VALUES
 select *
 from t_employee2 t1 inner join t_employee2 t2 
 on t1.empno = t2.mgr; 
-
-```
 ![](https://github.com/shiliwei/mysql-test-1/blob/master/12.png) 
+```
+ 
 ## 题目4：运行上述存储过程和函数
 ```
 DELIMITER $$
@@ -218,5 +218,6 @@ END$$
 DELIMITER ;
 
 SELECT func_employee_sal(7369);
-```
 ![](https://github.com/shiliwei/mysql-test-1/blob/master/13.png) 
+```
+
